@@ -1,0 +1,6 @@
+## Evidence
+
+Relevant logs and screenshots supporting this incident analysis are available in the `evidence/` directory, including:
+
+- pfSense firewall logs showing blocked TCP traffic on ports 80 and 443
+
